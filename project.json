@@ -1,5 +1,5 @@
 {
-	"name" : "fosteh12-cosmos-training",
+	"name" : "hello-fosteh12-cosmos-training",
 	"packaging" : {
 	"status_page" : "/status",
 	"application_port" : "8080",
